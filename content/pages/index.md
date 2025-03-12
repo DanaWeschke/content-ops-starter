@@ -4,14 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Technologie verbindet – wir machen es möglich
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Wir machen KI für Unternehmen greifbar.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Automatisierung mit Strategie. Wir setzen nicht einfach Tools ein – wir entwickeln maßgeschneiderte Lösungen, die sich in Ihre bestehenden Prozesse integrieren und echten Mehrwert liefern. Unsere Experten begleiten Sie von der Planung bis zur Umsetzung.
     actions:
       - label: Get started
         altText: ''
