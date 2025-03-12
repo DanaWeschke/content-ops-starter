@@ -11,9 +11,9 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
+      - title: Starter
+        price: 199
+        details: Ohne Abo
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Professional
-        price: $99
+        price: 399 €
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
