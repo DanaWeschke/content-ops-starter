@@ -1,5 +1,5 @@
 ---
-title: 5 Tipps erfolgreiche Voicebots
+title: 5 Tipps für erfolgreiche Voicebots
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
@@ -17,7 +17,7 @@ bottomSections: []
 isFeatured: false
 isDraft: false
 seo:
-  metaTitle: 5 Tipps erfolgreiche Voicebots
+  metaTitle: 5 Tipps für erfolgreiche Voicebots
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature1.svg
   type: Seo
