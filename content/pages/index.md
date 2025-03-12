@@ -190,8 +190,8 @@ sections:
     type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
+      - content/pages/blog/5 Tipps erfolgreiche Voicebots
+      - content/pages/blog/track-the-right-metrics-for-your-business
     showThumbnail: true
     showDate: true
     showAuthor: true
